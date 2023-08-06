@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there. I'm amiosamu 👋
 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-
-
-![amiosamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiosamu&show_icons=true&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiosamu&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amiosamu&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amiosamu&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amiosamu&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amiosamu&theme=solarized_dark)
